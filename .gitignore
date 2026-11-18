@@ -1,0 +1,16 @@
+# Datos sensibles: nunca al repositorio
+.env
+*.key
+*.pem
+credenciales*
+facturas/**/*.pdf
+clientes/**/*.csv
+ventas/**/*.csv
+contabilidad/**/*.xlsx
+# Catálogos con derechos de autor y fotos (van en Google Drive)
+catalogos/**/*.pdf
+*.jpg
+*.jpeg
+*.png
+*.webp
+.DS_Store
