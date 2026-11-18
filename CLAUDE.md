@@ -55,7 +55,7 @@ La sesión principal hace de **coordinador**: reparte el trabajo y junta los res
 ## Ofertas de compra recibidas (NO es stock propio)
 | Fecha | Proveedor | Material | Dónde | Estado |
 |---|---|---|---|---|
-| 25/09/2026 | Vendedor externo (cuenta "sfincsvof", carpeta compartida "Miguel Rodriguez" en Google Drive) | ~37 piezas de Bélgica clásica (OBP 1–37: Epaulettes, Medallones, planchas, bloques, márgenes de hoja, un ensayo), ~127 fotos | Google Drive, solo lectura, propiedad del vendedor | Pendiente de estudio por `experto-filatelico` |
+| 25/09/2026 | Vendedor externo (cuenta "sfincsvof", carpeta compartida "Miguel Rodriguez" en Google Drive) | ~37 piezas de Bélgica clásica (OBP 1–37: Epaulettes, Medallones, planchas, bloques, márgenes de hoja, un ensayo), ~127 fotos | Google Drive, solo lectura, propiedad del vendedor | Examen previo de Epaulettes hecho (ver `ofertas/belgica-2026-09/`). Resto pendiente |
 
 Las piezas de una oferta no entran en `inventario/inventario.csv` hasta que se compran. El experto hace primero el examen previo (piezas clave, riesgos, valor de reventa y precio máximo de compra).
 
