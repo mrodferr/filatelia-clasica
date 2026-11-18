@@ -58,3 +58,14 @@ La sesión principal hace de **coordinador**: reparte el trabajo y junta los res
 | 25/09/2026 | Vendedor externo (cuenta "sfincsvof", carpeta compartida "Miguel Rodriguez" en Google Drive) | ~37 piezas de Bélgica clásica (OBP 1–37: Epaulettes, Medallones, planchas, bloques, márgenes de hoja, un ensayo), ~127 fotos | Google Drive, solo lectura, propiedad del vendedor | Pendiente de estudio por `experto-filatelico` |
 
 Las piezas de una oferta no entran en `inventario/inventario.csv` hasta que se compran. El experto hace primero el examen previo (piezas clave, riesgos, valor de reventa y precio máximo de compra).
+
+## Google Drive (documentos, fotos y catálogos)
+Carpeta raíz **Filatelia** en el Drive del titular:
+- `01 Agentes (copia de seguridad)`: copia de este repositorio. La versión buena es la de GitHub.
+- `02 Inventario`: hoja de cálculo "Inventario filatelia clásica" (misma estructura que `inventario/inventario.csv`).
+- `03 Catálogos`: catálogos en PDF o escaneados (COB/OBP, Sassone, Ferchenbauer, Edifil, Michel, SG…).
+- `04 Ofertas de compra`: lotes que ofrecen vendedores (fotos y listas). No es stock.
+- `05 Valoraciones y certificados`: valoraciones, certificados de expertos (p. ej. "Valutazione francobollo Sicilia.xlsx").
+- `06 Fotos de stock`: fotos de las piezas propias, nombradas por SKU.
+- `07 Administración (facturas, impuestos)`.
+Los documentos personales del titular están aparte en "Personal - Privado": ningún agente debe usarlos.
